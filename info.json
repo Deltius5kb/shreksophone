@@ -1,0 +1,9 @@
+{
+  "name": "internalmodnamehere",
+  "version": "0.0.1",
+  "title": "moddisplayname",
+  "author": "yourname",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "moddescriptionhere"
+}
