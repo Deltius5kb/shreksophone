@@ -1,9 +1,9 @@
 {
   "name": "shreksophone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "shreksophone",
   "author": "deltius",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1", "shrek"],
-  "description": "shreksophone"
+  "description": "the mod is immensely powerful\nonly to be used with extreme caution and by those worthy"
 }
